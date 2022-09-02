@@ -1,0 +1,4 @@
+echo '0 string SCHOOL School data' >>
+echo '!:mine School' >>
+file -C -m school.mgc
+file --mime -m school.mgc
